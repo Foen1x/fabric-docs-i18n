@@ -1,4 +1,5 @@
 Gossip data dissemination protocol
+Gossip 数据传输协议
 ==================================
 
 Hyperledger Fabric optimizes blockchain network performance, security
